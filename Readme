@@ -1,0 +1,5 @@
+# Sat Bot
+
+Bot multi-plataforma para Discord, Telegram e WhatsApp, executado com
+Node.js. O projeto oferece carregamento dinâmico de comandos, automações,
+IA, downloads e suporte a Windows, Linux, macOS e Termux.
